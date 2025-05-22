@@ -1,4 +1,4 @@
-homebrew spice qemu customization repo
+Homebrew spice qemu customization repo
 To install push this at console:
 
 brew tap reckoner911/sipce-server
