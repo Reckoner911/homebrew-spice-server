@@ -125,7 +125,6 @@ class Qemu < Formula
       --enable-virtfs
       --enable-zstd
       --enable-spice
-      --enable-spice-server
       --extra-cflags=-DNCURSES_WIDECHAR=1
       --disable-sdl
     ]
