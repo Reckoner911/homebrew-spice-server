@@ -6,4 +6,3 @@ brew install --build-from-source spice-server
 brew install --build-from-source reckoner911/spice-server/qemu
 
 My qemu.rb is modified and provides SPICE/QXL support in MacOS QEMU virtualization
-Enjoy!
